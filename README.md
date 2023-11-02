@@ -1,6 +1,6 @@
 # Practo-data-analysis
 Attribute description-
-Below are the list of attributes that are present in the dataset with their description:
+\nBelow are the list of attributes that are present in the dataset with their description:
 Name: Name of the doctor {String}
 Degree: The qualification of the respective doctor {String}
 Speciality: The specialization of the respective doctor {String}
